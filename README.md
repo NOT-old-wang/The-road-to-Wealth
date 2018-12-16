@@ -1,2 +1,2 @@
 # The-road-to-Wealth
-- 见 [wiki]()
+## - 详见 [wiki](https://github.com/NOT-old-wang/The-road-to-Wealth/wiki)
